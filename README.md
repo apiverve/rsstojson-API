@@ -77,73 +77,73 @@ api.execute(query, function (error, data) {
     "feed": [
       {
         "website": "NASA",
-        "title": "30 Years Ago: STS-63, First Shuttle and Mir Rendezvous Mission ",
-        "pubDate": "Mon, 03 Feb 2025 15:16:04 +0000",
-        "description": "The first shuttle mission of 1995, STS-63 included several historic firsts. As part of Phase 1 of the International Space Station program, space shuttle Discovery’s 20th flight conducted the first shuttle rendezvous with the Mir space station, in preparation for future dockings. The six-person crew included Commander James Wetherbee, Pilot Eileen Collins – the first […]",
-        "link": "https://www.nasa.gov/history/30-years-ago-sts-63-first-shuttle-and-mir-rendezvous-mission/"
+        "title": "60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection ",
+        "pubDate": "Thu, 20 Feb 2025 20:59:33 +0000",
+        "description": "Before Apollo astronauts set foot upon the Moon, much remained unknown about the lunar surface. While most scientists believed the Moon had a solid surface that would support astronauts and their landing craft, a few believed a deep layer of dust covered it that would swallow any visitors. Until 1964, no closeup photographs of the […]",
+        "link": "https://www.nasa.gov/history/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/"
       },
       {
         "website": "NASA",
-        "title": "Lagniappe for February 2025",
-        "pubDate": "Mon, 03 Feb 2025 14:53:54 +0000",
-        "description": "Explore Lagniappe for February 2025 featuring: Gator Speaks Welcome to February, folks! The shortest month of the year is here, but do not let its number of days fool you. The month is full of energy and is welcomed with great enthusiasm. We have dusted ourselves off from a historic snowfall in January. The Super […]",
-        "link": "https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-february-2025/"
+        "title": "55 Years Ago: Preps for Apollo 13 and 14, Apollo 12 Crew on World Tour",
+        "pubDate": "Thu, 20 Feb 2025 19:06:38 +0000",
+        "description": "With two months to go before flight, the Apollo 13 prime crew of James Lovell, Thomas Mattingly, Fred Haise, and backups John Young, John Swigert, and Charles Duke continued to train for the 10-day mission planned to land in the Fra Mauro highlands region of the Moon. Engineers continued to prepare the Saturn V rocket […]",
+        "link": "https://www.nasa.gov/history/55-years-ago-preps-for-apollo-13-and-14-apollo-12-crew-on-world-tour/"
       },
       {
         "website": "NASA",
-        "title": "NASA Attends FAN EXPO New Orleans",
-        "pubDate": "Mon, 03 Feb 2025 14:52:23 +0000",
-        "description": "NASA reached out to inspire members of the Artemis Generation on Jan. 10-12, joining one of the largest comic con producers in the world to host an outreach booth at the 2025 FAN EXPO in New Orleans. Thousands of fans celebrating the best in pop culture such as movies, comics, and video gaming learned about […]",
-        "link": "https://www.nasa.gov/image-article/stennis-attends-fan-expo-new-orleans/"
+        "title": "NASA Invites Media to Simulated Mars Habitat Before Next Mission",
+        "pubDate": "Thu, 20 Feb 2025 19:02:19 +0000",
+        "description": "Media are invited to visit NASA’s simulated Mars habitat on Monday, March 10, at the agency’s Johnson Space Center in Houston. The simulation will help prepare humanity for future missions to the Red Planet. This is the second of three missions as part of NASA’s CHAPEA (Crew Health and Performance Exploration Analog), set to begin […]",
+        "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-simulated-mars-habitat-before-next-mission/"
       },
       {
         "website": "NASA",
-        "title": "The Drive for Better Fuels NASA Employee",
-        "pubDate": "Mon, 03 Feb 2025 14:51:48 +0000",
-        "description": "Two words come to Tim Stiglets’ mind when he thinks about NASA’s Stennis Space Center near Bay St. Louis, Mississippi – growth and opportunity. The Waveland, Mississippi, resident has experienced both in his career at the south Mississippi NASA center. He started as a summer intern onsite with Lockheed Martin in 2002. When The University […]",
-        "link": "https://www.nasa.gov/image-article/the-drive-for-better-fuels-tim-stiglets/"
+        "title": "In Memoriam: Jeff Dozier [1944–2024]",
+        "pubDate": "Thu, 20 Feb 2025 18:55:58 +0000",
+        "description": "Jeff Dozier, an environmental scientist, snow hydrologist, researcher, academic – and former Earth Observing System Project Scientist – died on November 17, 2024. Jeff’s research focused on snow hydrology and biogeochemistry in mountain environments and addressed the role of stored and melting snow in the hydrologic cycle as well as the economic and social impact […]",
+        "link": "https://science.nasa.gov/science-research/earth-science/in-memoriam-jeff-dozier-1944-2024/"
       },
       {
         "website": "NASA",
-        "title": "Station Nation: Meet Tandra Gill Spain, Computer Resources Senior Project Manager in the Avionics and Software Office ",
-        "pubDate": "Mon, 03 Feb 2025 12:00:00 +0000",
-        "description": "For astronauts aboard the International Space Station, staying connected to loved ones and maintaining a sense of normalcy is critical. That is where Tandra Gill Spain, a computer resources senior project manager in NASA’s Avionics and Software Office, comes in. Spain leads the integration of applications on Apple devices and the hardware integration on the […]",
-        "link": "https://www.nasa.gov/general/station-nation-meet-tandra-gill-spain-computer-resources-senior-project-manager-in-the-avionics-and-software-office/"
+        "title": "In Memoriam: Berrien Moore III [1941–2024]",
+        "pubDate": "Thu, 20 Feb 2025 18:54:46 +0000",
+        "description": "Berrien Moore III, Dean of the College of Atmospheric and Geographic Sciences at the University of Oklahoma (OU), director of the National Weather Center in Norman, OK, and Vice President for Weather and Climate Programs, died on December 17, 2024. Berrien earned an undergraduate degree from the University of North Carolina in 1963 and a doctorate […]",
+        "link": "https://science.nasa.gov/science-research/earth-science/in-memoriam-berrien-moore-iii-1941-2024/"
       },
       {
         "website": "NASA",
-        "title": "NASA to Talk Science, Tech Aboard Next Intuitive Machines Moon Flight",
-        "pubDate": "Fri, 31 Jan 2025 21:51:15 +0000",
-        "description": "NASA will host a media teleconference at 1 p.m. EST Friday, Feb. 7, to discuss the agency’s science and technology flying aboard Intuitive Machines’ second flight to the Moon. The mission is part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign to establish a long-term lunar presence. Audio of the call will stream […]",
-        "link": "https://www.nasa.gov/news-release/nasa-to-talk-science-tech-aboard-next-intuitive-machines-moon-flight/"
+        "title": "Artemis II Rocket Booster Stacking Complete",
+        "pubDate": "Thu, 20 Feb 2025 16:52:15 +0000",
+        "description": "Engineers at NASA’s Kennedy Space Center in Florida completed stacking the twin SLS (Space Launch System) solid rocket boosters – seen in this Feb. 19, 2025, photo – inside the Vehicle Assembly Building for the agency’s Artemis II crewed test flight around the Moon. During stacking operations, which began Nov. 20, 2024, technicians used a massive overhead crane to […]",
+        "link": "https://www.nasa.gov/image-article/artemis-ii-rocket-booster-stacking-complete/"
       },
       {
         "website": "NASA",
-        "title": "What’s Up: February 2025 Skywatching Tips from NASA",
-        "pubDate": "Fri, 31 Jan 2025 19:00:02 +0000",
-        "description": "A Month of Bright Planets Venus blazes at its brightest for the year after sunset, then Mars and Jupiter to rule the night amid the menagerie of bright winter stars. Skywatching Highlights All Month – Planet Visibility: Daily Highlights: February 1 – Venus & Moon: The crescent Moon cozies up to brilliant Venus tonight in […]",
-        "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-february-2025-skywatching-tips-from-nasa/"
+        "title": "NASA Stennis Teams Install New Production RS-25 Engine for Upcoming Hot Fire",
+        "pubDate": "Thu, 20 Feb 2025 16:04:38 +0000",
+        "description": "NASA marked a key milestone Feb. 18 with installation of RS-25 engine No. E20001, the first new production engine to help power the SLS (Space Launch System) rocket on future Artemis missions to the Moon. The engine, built by lead SLS engines contractor L3Harris (formerly Aerojet Rocketdyne), was installed on the Fred Haise Test Stand […]",
+        "link": "https://www.nasa.gov/image-article/stennis-teams-install-new-production-rs-25-engine/"
       },
       {
         "website": "NASA",
-        "title": "NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides",
-        "pubDate": "Fri, 31 Jan 2025 18:31:13 +0000",
-        "description": "Analysis of data from NASA radar aboard an airplane shows that the decades-old active landslide area on the Palos Verdes Peninsula has expanded. Researchers at NASA’s Jet Propulsion Laboratory in Southern California used data from an airborne radar to measure the movement of the slow-moving landslides on the Palos Verdes Peninsula in Los Angeles County. […]",
-        "link": "https://www.nasa.gov/science-research/earth-science/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/"
+        "title": "In Memoriam: Pierre Morel [1933–2024]",
+        "pubDate": "Thu, 20 Feb 2025 14:54:30 +0000",
+        "description": "Pierre Morel, the first director of the World Climate Research Programme (WCRP) and founding member of WCRP’s Global Energy and Water Exchanges (GEWEX) Core project, died on December 10, 2024. Pierre began his research as a theoretical physicist. His doctoral thesis examined the existence and properties of a condensed superfluid state of liquid Helium 3 […]",
+        "link": "https://science.nasa.gov/science-research/earth-science/in-memoriam-pierre-morel-1933-2024/"
       },
       {
         "website": "NASA",
-        "title": "NASA Flight Tests Wildland Fire Tech Ahead of Demo",
-        "pubDate": "Fri, 31 Jan 2025 18:26:46 +0000",
-        "description": "NASA is collaborating with the wildfire community to provide tools for some of the most challenging aspects of firefighting – particularly aerial nighttime operations.   In the future, agencies could more efficiently use drones, both remotely piloted and fully autonomous, to help fight wildfires. NASA recently tested technologies with teams across the country that will enable […]",
-        "link": "https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/"
+        "title": "Lunar Cold Electronics Assessment Workshop (Apr 30 – May 1, 2025)",
+        "pubDate": "Thu, 20 Feb 2025 14:53:08 +0000",
+        "description": "How to Attend The workshop will be hosted by NASA Jet Propulsion Laboratory.Virtual and in-person attendance are available. Registration is required for both. (Link coming soon!)Virtual attendees will receive connection information one week before the workshop. Background, Goals and Objectives Preliminary Agenda Points of Contact If you have any questions regarding the workshop, please contact […]",
+        "link": "https://www.nasa.gov/centers-and-facilities/nesc/lunar-cold-electronics-assessment-workshop/"
       },
       {
         "website": "NASA",
-        "title": "Building an Antenna",
-        "pubDate": "Fri, 31 Jan 2025 17:15:11 +0000",
-        "description": "A crane lowers the 112-foot-wide (34-meter-wide) steel framework for the Deep Space Station 23 (DSS-23) reflector dish into position on Dec. 18, 2024, at the Deep Space Network’s (DSN) Goldstone Space Communications Complex near Barstow, California. Once online in 2026, DSS-23 will be the fifth of six new beam waveguide antennas to be added to […]",
-        "link": "https://www.nasa.gov/image-article/building-an-antenna/"
+        "title": "Summary of the Joint NASA LCLUC–SARI Synthesis Meeting",
+        "pubDate": "Thu, 20 Feb 2025 14:52:36 +0000",
+        "description": "Introduction The NASA Land-Cover and Land-Use Change (LCLUC) is an interdisciplinary scientific program within NASA’s Earth Science program that aims to develop the capability for periodic global inventories of land use and land cover from space. The program’s goal is to develop the mapping, monitoring and modeling capabilities necessary to simulate the processes taking place and […]",
+        "link": "https://science.nasa.gov/science-research/earth-science/summary-of-the-joint-nasa-lcluc-sari-synthesis-meeting/"
       }
     ]
   },
@@ -173,7 +173,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
