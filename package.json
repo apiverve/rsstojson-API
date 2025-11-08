@@ -1,24 +1,26 @@
 {
   "name": "@apiverve/rsstojson",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "RSS to JSON is a simple tool for converting RSS feeds into JSON format. It returns the RSS feed in JSON format.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "example": "node examples/basic.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apiverve/rsstojson-API.git"
   },
   "keywords": [
-    "rss to json","rss to json api","rss to json tool","rss to json software","rss to json service"
+    "rss to json", "rss to json api", "rss to json tool", "rss to json software", "rss to json service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/apiverve/rsstojson-API/issues"
   },
-  "homepage": "https://apiverve.com/marketplace/api/rsstojson?utm_source=npm",
+  "homepage": "https://apiverve.com/marketplace/rsstojson?utm_source=npm",
   "devDependencies": {
     "mocha": "^11.0.1",
     "chai": "^5.1.2",
@@ -27,6 +29,6 @@
   "dependencies": {
     "node-fetch": "^3.3.2",
     "promise": "^8.3.0",
-    "axios": "1.7.9"
+    "axios": "1.13.2"
   }
 }
